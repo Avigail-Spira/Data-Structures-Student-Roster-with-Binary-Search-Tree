@@ -1,0 +1,9 @@
+FirstName, LastName, IDNo
+Anderson Andy 124
+Anderson John B134761
+Doe Mary 123
+Kind Ben A145321
+Laaa Sam 4849
+May Joe 90333
+Spira Avigail 35264
+Zagel T 374
